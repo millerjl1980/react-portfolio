@@ -2,9 +2,9 @@
   "main": {
     "name": "Justin Miller",
     "occupation": "Software Developer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "description": "Full Stack Developer looking for the next opportunity to solve problems with code.",
     "image": "jmprofile.jpg",
-    "bio": "Bio information",
+    "bio": "Thoughtful, disciplined, and detail-oriented software developer who enjoys identifying problems, and finds solving them rewarding. My previous area of expertise has been working in the financial services industry; however, I am open to working with established subject-matter experts in other areas to discover new industries. Looking forward to working with new companies, no matter what the size, and continuing a lifelong journey of learning.  Myers-Briggs Type Indicator: INFJ.  Predictive Index Behavioral Assessment: Operator.",
     "contactmessage": "Get in touch with me to receive further details!",
     "email": "indymiller@gmail.com",
     "phone": "317.460.8488",
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of my skills are:",
     "education": [
       {
         "school": "Kenzie Academy",
